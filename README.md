@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot mobile](./img/captura-mobile.png)
-![Screenshot desktop](./img/captura-desktop.png)
+![Screenshot mobile](./images/captura-mobile.png)
+![Screenshot desktop](./images/captura-desktop.png)
 
 ### Links
 
@@ -48,4 +48,4 @@ I learned the basics of html and css.
 ## Author
 
 - Frontend Mentor - [@robeurve](https://www.frontendmentor.io/profile/robeurve)
-- Twitter - [@yourusername](https://www.twitter.com/UrrutiaRonald)
+- Twitter - [@UrrutiaRonald](https://www.twitter.com/UrrutiaRonald)
